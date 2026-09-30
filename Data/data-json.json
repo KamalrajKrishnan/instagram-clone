@@ -1,0 +1,60 @@
+{"courses":
+    [
+        {
+            "id": 1,
+            "name": "React JS",
+            "image": "http://localhost:3000/assets/react.svg",
+            "tagline": "Learn React advanced",
+            "ratings": "4.8",
+            "price": 499
+        },
+        {
+            "id": 2,
+            "name": "Node JS",
+            "image": "http://localhost:3000/assets/Nodejs.png",
+            "tagline": "Learn Node.js and Express",
+            "ratings": "4.7",
+            "price": 599
+        },
+        {
+            "id": 3,
+            "name": "JavaScript",
+            "image": "http://localhost:3000/assets/JavaScript.png",
+            "tagline": "Master modern JavaScript",
+            "ratings": "4.9",
+            "price": 699
+        },
+        {
+            "id": 4,
+            "name": "MySQL",
+            "image": "http://localhost:3000/assets/Database-mysql.svg",
+            "tagline": "Learn MySQL database",
+            "ratings": "4.6",
+            "price": 799
+        },
+        {
+            "id": 5,
+            "name": "MongoDB",
+            "image": "http://localhost:3000/assets/MongoDb.png",
+            "tagline": "Learn MongoDB database",
+            "ratings": "4.7",
+            "price": 399
+        },
+        {
+            "id": 6,
+            "name": "Express JS",
+            "image": "http://localhost:3000/assets/Express.png",
+            "tagline": "Learn Express.js framework",
+            "ratings": "4.8",
+            "price": 299
+        },
+        {
+            "id": 7,
+            "name": "TypeScript",
+            "image": "http://localhost:3000/assets/TypeScript.png",
+            "tagline": "Learn TypeScript from basics",
+            "ratings": "4.9",
+            "price": 999
+        }
+  ]
+}
